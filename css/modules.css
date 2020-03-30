@@ -1,0 +1,53 @@
+@media (min-width:960px) and (min-height:768px){
+    #a{
+      
+        background-color: aqua;
+    }
+    #b{
+   
+        background-color: #0e6b4c;
+    }
+    .cd{
+        background-color: blue;
+     
+    }
+    .efGh{
+        background-color: #6e6e90;
+     
+    }
+    #idiv{
+        
+        background-color: brown;
+    }
+
+}
+@media (max-width:480px) and (max-height:767px){
+
+    #a{
+      
+        background-color: aqua;
+    }
+    #b{
+       
+        background-color: #0e6b4c;
+      
+    }
+    
+    #c{
+       
+        background-color: #78dabc;
+    }
+    #d{
+      
+        background-color: #137657;
+    }
+    #e,#f,#g,#h {
+        
+        background-color: #3F51B5;
+
+    }
+    #idiv{
+     
+        background-color: #ebde6a; 
+    }
+}
