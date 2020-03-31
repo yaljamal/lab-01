@@ -1,8 +1,7 @@
-@media (min-width:960px) and (min-height:768px){
-    body{
+    /* body{
         width:960px;
        height:768px;
-    }
+    } */
     #a{
         height: 100px;
         width: 960px;
@@ -42,7 +41,7 @@
 
 
 
-}
+
 @media (max-width:480px) and (max-height:767px){
     body{
         max-width:480px;
