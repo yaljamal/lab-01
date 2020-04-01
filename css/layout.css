@@ -39,9 +39,6 @@
         background-color: brown;
     }
 
-
-
-
 @media (max-width:480px) and (max-height:767px){
     body{
         max-width:480px;

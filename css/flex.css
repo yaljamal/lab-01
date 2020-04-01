@@ -1,0 +1,115 @@
+   @media screen and (min-width:960px){
+    body{
+        /* width: 960px;
+        height: 960px; */
+    } 
+    .contanier{
+    display: flex;
+    flex-direction: column;
+    }
+    #a{
+        height: 100px;
+        width: 960px;
+    }
+    #b{
+        width: 200px;
+        height: 600px;
+    }
+    .perant{
+    display: flex;  
+    }
+    .chiled1{
+        /* display: flex; */
+    }
+    .chiled2{
+        display: flex;
+    }
+    .chiled3{
+      width: 760px;
+        display: flex;
+        flex-direction: row;
+    }
+    .ef{
+    display:flex;
+    /* flex-direction: column; */
+    
+    }
+    #e{
+        flex-direction: column;
+    }
+    #f{
+        flex-direction: column;
+    }
+    .gh{
+display: flex;  
+  }
+    
+    .cd{
+        width: 380px;
+        height: 200px;
+    }
+    .efGh{
+        width: 190px;
+        height: 250px;
+    }
+    #idiv{
+        width: 760px;
+        height: 150px;
+    }  
+
+   }
+   
+@media screen and (max-width:767px) {
+    body{
+        width: 480px;
+        height: 767px;
+        text-align: center;
+        
+    } 
+    .contanier{
+    display: flex;
+    flex-direction: column;
+    }
+    #a{
+        height: 75px;
+        width: 100%;
+  
+    }
+    #b{
+        width: 100%;
+        height: 150px;
+    }
+    
+    .cd{
+        width: 100%;
+        height: 125px;
+    }
+    .chiled3{
+        display: flex;
+
+    }
+    .ef{
+        display: flex;
+        flex-direction: column;
+    }
+    .gh{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .efGh{
+        width: 240px;
+        height: 250px;
+    }
+    #idiv{
+        height: 75px;
+        width: 100%;
+    }  
+
+}
+
+
+
+
+
+
